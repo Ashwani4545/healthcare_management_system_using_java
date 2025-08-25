@@ -103,14 +103,3 @@ The HealthCare Management System offers a robust and efficient platform for auto
 
 You can find the full abstract in:
 📄 DOCUMENTATION/ABSTRACT.docx
-
-🧑‍💻 Author & Acknowledgments
-📁 Project Source: Enggroom.com (Engineering mini-project repository)
-
-👨‍💻 Customized & Documented by: Your Name Here
-
-📅 Year: 2024
-
-📝 License
-This project is for educational and learning purposes only.
-Credit to original contributors is required if reused or modified.

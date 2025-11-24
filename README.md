@@ -19,7 +19,7 @@ ________________________________________
 •	Track staff activity logs
 •	Access diagnostic and billing reports
 
-## 💰 Billing & Reporting
+### 💰 Billing & Reporting
 •	Calculate patient charges based on services
 •	Generate diagnostic and payment summaries
 •	Maintain a transaction and billing history

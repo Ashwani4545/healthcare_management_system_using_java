@@ -24,7 +24,7 @@ ________________________________________
 # 🗂 Project Structure
 ## 📁 HealthCare_Management_System/
 
-'''
+```
 │
 ├── 📁 code/                 # Java source and compiled class files
 │   ├── Main.java            # Entry point of the application
@@ -43,7 +43,7 @@ ________________________________________
 │
 ├── 📄 *.jpg / *.bmp         # Backgrounds, icons, and UI assets
 └── 📄 LICENSE               # MIT License
-'''
+```
 ________________________________________
 # ⚙️ Technologies Used
 Component	Technology

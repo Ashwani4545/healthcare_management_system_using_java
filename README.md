@@ -4,7 +4,7 @@ HealthCare Management System (HCMS) is a desktop-based Java application designed
 HCMS is ideal for clinics, hospitals, and healthcare institutions aiming to digitize and efficiently manage their workflows.
 ________________________________________
 # 🧾 Key Features
-## 👤 Patient Management
+### 👤 Patient Management
 •	Register new patients
 •	Update or modify patient details
 •	Generate and view discharge summaries

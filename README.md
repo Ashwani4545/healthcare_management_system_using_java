@@ -49,14 +49,17 @@ ________________________________________
 ```
 ________________________________________
 # ⚙️ Technologies Used
+```
 Component	Technology
 Frontend	Java Swing (GUI)
 Backend	Java SE (Core)
 Database	MS Access / MySQL (configurable)
 Reporting	Java + Manual Export
 Platform	Desktop (Windows preferred)
+```
 ________________________________________
 # 📸 UI Screenshots
+```
 Located in DOCUMENTATION/Screens/ folder:
 •	Login Form
 •	Patient Dashboard
@@ -64,16 +67,20 @@ Located in DOCUMENTATION/Screens/ folder:
 •	Doctor Panel
 •	Report Summary
 •	Billing Window
+```
 ________________________________________
 # 🧠 UML Diagrams
+```
 Stored in DOCUMENTATION/uml/:
 •	Use Case Diagram
 •	Class Diagram
 •	Sequence Diagram
 •	Collaboration Diagram
 These diagrams outline the system’s design and logic flow, aiding in better understanding and maintenance.
+```
 ________________________________________
 ▶️ How to Run the Project
+
 1️⃣ Open in a Java IDE
 Use Eclipse, NetBeans, or IntelliJ IDEA and open the project folder.
 2️⃣ Include Source Files

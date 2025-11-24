@@ -80,7 +80,7 @@ These diagrams outline the system’s design and logic flow, aiding in better un
 ```
 ________________________________________
 ▶️ How to Run the Project
-
+```
 1️⃣ Open in a Java IDE
 Use Eclipse, NetBeans, or IntelliJ IDEA and open the project folder.
 2️⃣ Include Source Files
@@ -91,6 +91,7 @@ The GUI will launch automatically.
 # ⚠️ Important Notes
 •	Ensure the JDBC connection (if configured) matches your database path.
 •	Keep all images (.jpg / .bmp) in the expected directories, as they are referenced by the GUI.
+```
 ________________________________________
 # 📄 Abstract (Summary)
 The HealthCare Management System provides a robust, efficient, and user-friendly platform for automating medical workflows. It minimizes manual effort, reduces human error, and ensures data accuracy across patient management, diagnosis, billing, and administration.

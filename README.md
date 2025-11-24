@@ -81,7 +81,7 @@ Stored in DOCUMENTATION/uml/:
 These diagrams outline the system’s design and logic flow, aiding in better understanding and maintenance.
 ```
 ________________________________________
-▶️ How to Run the Project
+#▶️ How to Run the Project
 ```
 1️⃣ Open in a Java IDE
 Use Eclipse, NetBeans, or IntelliJ IDEA and open the project folder.
@@ -101,4 +101,20 @@ The HealthCare Management System provides a robust, efficient, and user-friendly
 Designed primarily for small to mid-sized healthcare institutions, HCMS modernizes healthcare operations through digital transformation.
 Full abstract available at:
 📄 DOCUMENTATION/ABSTRACT.docx
+```
+________________________________________
+# 🧑‍💻 Contributors
 
+- [Ashwani Pandey](https://github.com/Ashwani4545) — Developer & Maintainer
+
+---
+
+# 📜 License
+
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+
+---
+
+# ⭐ Acknowledgments
+
+Special thanks to the open-source community and Python developers who made libraries like `pygame` accessible and easy to use for game development.

@@ -9,7 +9,7 @@ ________________________________________
 •	Update or modify patient details
 •	Generate and view discharge summaries
 
-## 🩺 Doctor Panel
+### 🩺 Doctor Panel
 •	Assign doctors to specific patients
 •	Record symptoms and diagnostic details
 •	Generate and print prescriptions

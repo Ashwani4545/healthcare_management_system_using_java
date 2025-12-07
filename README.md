@@ -72,7 +72,7 @@ Located in DOCUMENTATION/Screens/ folder:
 
 ________________________________________
 ## 🧠 UML Diagrams
-```
+
 Stored in DOCUMENTATION/uml/:
 •	Use Case Diagram
 •	Class Diagram

@@ -51,7 +51,7 @@ ________________________________________
 ```
 ________________________________________
 ## ⚙️ Technologies Used
-```
+
 Component	Technology
 Frontend	Java Swing (GUI)
 Backend	Java SE (Core)

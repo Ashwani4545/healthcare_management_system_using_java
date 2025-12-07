@@ -96,9 +96,11 @@ Ensure all .java files from the code/ directory are part of the source build pat
 Build the project and run the main class (e.g., Main.java or HospitalMain.java).
 The GUI will launch automatically.
 ```
-# ⚠️ Important Notes
+⚠️ Important Notes
+```
 •	Ensure the JDBC connection (if configured) matches your database path.
 •	Keep all images (.jpg / .bmp) in the expected directories, as they are referenced by the GUI.
+```
 
 ________________________________________
 ## 📄 Abstract (Summary)

@@ -26,7 +26,7 @@ ________________________________________
 •	Maintain a transaction and billing history
 
 ________________________________________
-# 🗂 Project Structure
+## 🗂 Project Structure
 ## 📁 HealthCare_Management_System/
 
 ```

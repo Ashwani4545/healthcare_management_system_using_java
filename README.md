@@ -88,7 +88,9 @@ ________________________________________
 Use Eclipse, NetBeans, or IntelliJ IDEA and open the project folder.
 ```
 2️⃣ Include Source Files
+```
 Ensure all .java files from the code/ directory are part of the source build path.
+```
 3️⃣ Compile & Run
 Build the project and run the main class (e.g., Main.java or HospitalMain.java).
 The GUI will launch automatically.

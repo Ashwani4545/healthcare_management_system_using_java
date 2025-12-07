@@ -27,7 +27,7 @@ ________________________________________
 
 ________________________________________
 ## 🗂 Project Structure
-## 📁 HealthCare_Management_System/
+### 📁 HealthCare_Management_System/
 
 ```
 │

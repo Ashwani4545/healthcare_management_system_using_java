@@ -115,6 +115,6 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ---
 
-# ⭐ Acknowledgments
+## ⭐ Acknowledgments
 
 Special thanks to the open-source community and Python developers who made libraries like `pygame` accessible and easy to use for game development.

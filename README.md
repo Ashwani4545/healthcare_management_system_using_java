@@ -113,17 +113,13 @@ Full abstract available at:
 ```
 ________________________________________
 ## 🧑‍💻 Contributors
-
 - [Ashwani Pandey](https://github.com/Ashwani4545) — Developer & Maintainer
 
 ---
 
 ## 📜 License
-
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 ---
-
 ## ⭐ Acknowledgments
-
 Special thanks to the open-source community and Python developers who made libraries like `pygame` accessible and easy to use for game development.

@@ -61,7 +61,7 @@ Platform	Desktop (Windows preferred)
 
 ________________________________________
 ## 📸 UI Screenshots
-```
+
 Located in DOCUMENTATION/Screens/ folder:
 •	Login Form
 •	Patient Dashboard

@@ -103,7 +103,7 @@ Full abstract available at:
 📄 DOCUMENTATION/ABSTRACT.docx
 ```
 ________________________________________
-# 🧑‍💻 Contributors
+## 🧑‍💻 Contributors
 
 - [Ashwani Pandey](https://github.com/Ashwani4545) — Developer & Maintainer
 

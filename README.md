@@ -79,7 +79,7 @@ Stored in DOCUMENTATION/uml/:
 •	Sequence Diagram
 •	Collaboration Diagram
 These diagrams outline the system’s design and logic flow, aiding in better understanding and maintenance.
-```
+
 ________________________________________
 ## ▶️ How to Run the Project
 

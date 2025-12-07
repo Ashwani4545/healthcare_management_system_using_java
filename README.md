@@ -69,7 +69,7 @@ Located in DOCUMENTATION/Screens/ folder:
 •	Doctor Panel
 •	Report Summary
 •	Billing Window
-```
+
 ________________________________________
 ## 🧠 UML Diagrams
 ```

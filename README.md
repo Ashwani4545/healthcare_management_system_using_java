@@ -81,7 +81,7 @@ Stored in DOCUMENTATION/uml/:
 These diagrams outline the system’s design and logic flow, aiding in better understanding and maintenance.
 ```
 ________________________________________
-#▶️ How to Run the Project
+##▶️ How to Run the Project
 ```
 1️⃣ Open in a Java IDE
 Use Eclipse, NetBeans, or IntelliJ IDEA and open the project folder.

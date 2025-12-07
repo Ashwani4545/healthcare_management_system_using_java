@@ -93,7 +93,7 @@ The GUI will launch automatically.
 # ⚠️ Important Notes
 •	Ensure the JDBC connection (if configured) matches your database path.
 •	Keep all images (.jpg / .bmp) in the expected directories, as they are referenced by the GUI.
-```
+
 ________________________________________
 ## 📄 Abstract (Summary)
 ```

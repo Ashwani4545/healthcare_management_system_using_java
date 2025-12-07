@@ -58,7 +58,7 @@ Backend	Java SE (Core)
 Database	MS Access / MySQL (configurable)
 Reporting	Java + Manual Export
 Platform	Desktop (Windows preferred)
-```
+
 ________________________________________
 ## 📸 UI Screenshots
 ```

@@ -82,7 +82,7 @@ These diagrams outline the system’s design and logic flow, aiding in better un
 ```
 ________________________________________
 ## ▶️ How to Run the Project
-```
+
 1️⃣ Open in a Java IDE
 Use Eclipse, NetBeans, or IntelliJ IDEA and open the project folder.
 2️⃣ Include Source Files

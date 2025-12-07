@@ -71,7 +71,7 @@ Located in DOCUMENTATION/Screens/ folder:
 •	Billing Window
 ```
 ________________________________________
-# 🧠 UML Diagrams
+## 🧠 UML Diagrams
 ```
 Stored in DOCUMENTATION/uml/:
 •	Use Case Diagram

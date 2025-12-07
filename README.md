@@ -104,10 +104,11 @@ The GUI will launch automatically.
 
 ________________________________________
 ## 📄 Abstract (Summary)
-```
+
 The HealthCare Management System provides a robust, efficient, and user-friendly platform for automating medical workflows. It minimizes manual effort, reduces human error, and ensures data accuracy across patient management, diagnosis, billing, and administration.
 Designed primarily for small to mid-sized healthcare institutions, HCMS modernizes healthcare operations through digital transformation.
 Full abstract available at:
+```
 📄 DOCUMENTATION/ABSTRACT.docx
 ```
 ________________________________________

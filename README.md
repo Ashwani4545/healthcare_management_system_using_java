@@ -50,7 +50,7 @@ ________________________________________
 └── 📄 LICENSE               # MIT License
 ```
 ________________________________________
-# ⚙️ Technologies Used
+## ⚙️ Technologies Used
 ```
 Component	Technology
 Frontend	Java Swing (GUI)

@@ -74,10 +74,10 @@ ________________________________________
 ## 🧠 UML Diagrams
 
 Stored in DOCUMENTATION/uml/:
-•	Use Case Diagram
-•	Class Diagram
-•	Sequence Diagram
-•	Collaboration Diagram
+-	Use Case Diagram
+-	Class Diagram
+-	Sequence Diagram
+-	Collaboration Diagram
 These diagrams outline the system’s design and logic flow, aiding in better understanding and maintenance.
 
 ________________________________________

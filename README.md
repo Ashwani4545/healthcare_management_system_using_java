@@ -11,9 +11,9 @@ ________________________________________
 - Generate and view discharge summaries
 
 ### 🩺 Doctor Panel
-•	Assign doctors to specific patients
-•	Record symptoms and diagnostic details
-•	Generate and print prescriptions
+-	Assign doctors to specific patients
+-	Record symptoms and diagnostic details
+-	Generate and print prescriptions
 
 ### 🛠 Admin Panel
 •	Manage user accounts (add/update/remove)

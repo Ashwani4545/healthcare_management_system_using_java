@@ -52,12 +52,12 @@ ________________________________________
 ________________________________________
 ## ⚙️ Technologies Used
 
-Component	Technology
-Frontend	Java Swing (GUI)
-Backend	Java SE (Core)
-Database	MS Access / MySQL (configurable)
-Reporting	Java + Manual Export
-Platform	Desktop (Windows preferred)
+- Component	Technology
+- Frontend	Java Swing (GUI)
+- Backend	Java SE (Core)
+- Database	MS Access / MySQL (configurable)
+- Reporting	Java + Manual Export
+- Platform	Desktop (Windows preferred)
 
 ________________________________________
 ## 📸 UI Screenshots

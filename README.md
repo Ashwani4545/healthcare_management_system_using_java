@@ -6,9 +6,9 @@ ________________________________________
 ## 🧾 Key Features
 
 ### 👤 Patient Management
-•	Register new patients
-•	Update or modify patient details
-•	Generate and view discharge summaries
+- Register new patients
+- Update or modify patient details
+- Generate and view discharge summaries
 
 ### 🩺 Doctor Panel
 •	Assign doctors to specific patients

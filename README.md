@@ -21,9 +21,9 @@ ________________________________________
 -	Access diagnostic and billing reports
 
 ### 💰 Billing & Reporting
-•	Calculate patient charges based on services
-•	Generate diagnostic and payment summaries
-•	Maintain a transaction and billing history
+-	Calculate patient charges based on services
+-	Generate diagnostic and payment summaries
+-	Maintain a transaction and billing history
 
 ________________________________________
 ## 🗂 Project Structure

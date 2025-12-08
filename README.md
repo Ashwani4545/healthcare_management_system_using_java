@@ -16,9 +16,9 @@ ________________________________________
 -	Generate and print prescriptions
 
 ### 🛠 Admin Panel
-•	Manage user accounts (add/update/remove)
-•	Track staff activity logs
-•	Access diagnostic and billing reports
+-	Manage user accounts (add/update/remove)
+-	Track staff activity logs
+-	Access diagnostic and billing reports
 
 ### 💰 Billing & Reporting
 •	Calculate patient charges based on services

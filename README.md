@@ -63,12 +63,12 @@ ________________________________________
 ## 📸 UI Screenshots
 
 Located in DOCUMENTATION/Screens/ folder:
-•	Login Form
-•	Patient Dashboard
-•	Add / Edit Patient Form
-•	Doctor Panel
-•	Report Summary
-•	Billing Window
+-	Login Form
+-	Patient Dashboard
+-	Add / Edit Patient Form
+-	Doctor Panel
+-	Report Summary
+-	Billing Window
 
 ________________________________________
 ## 🧠 UML Diagrams
